@@ -1,0 +1,446 @@
+#a{
+	background-color: #FFFFF0;
+	height: 776px;
+	width: 906px;
+	font-size: 0px;
+	margin-left: 180px;
+	margin-top: 15px;
+	padding-top: 0px;
+	border: 1px solid black;
+}
+#b{
+	background-color: #FFFFF0;
+	height: 300px;
+	width: 350px;
+	font-size: 0px;
+	margin-left: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+	border: 1px solid black;
+	background-color: blue;
+}
+#blue{
+	background-color: #FFFFF0;
+	height: 210px;
+	width: 250px;
+	font-size: 0px;
+	margin-left: 50px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 2px solid black;
+	top: 60px;
+	position: absolute;
+	cursor: pointer;
+	background-color: white;
+}
+#box1{
+	background-color: #FFFFF0;
+	height: 55px;
+	width: 55px;
+	font-size: 0px;
+	margin-left: 40px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	border-radius: 50px;
+	top: 30px;
+	position: absolute;
+	cursor: pointer;
+	background-color: blue;
+}
+#box2{
+	background-color: #FFFFF0;
+	height: 55px;
+	width: 55px;
+	font-size: 0px;
+	margin-left: 150px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	border-radius: 50px;
+	top: 30px;
+	position: absolute;
+	cursor: pointer;
+	background-color: blue;
+}
+#box3{
+	background-color: #FFFFF0;
+	height: 55px;
+	width: 55px;
+	font-size: 0px;
+	margin-left: 40px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	top: 128px;
+	position: absolute;
+	cursor: pointer;
+	background-color: blue;
+	border-radius: 50px;
+}
+#box4{
+	background-color: #FFFFF0;
+	height: 55px;
+	width: 55px;
+	font-size: 0px;
+	margin-left: 150px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	border-radius: 50px;
+	top: 128px;
+	position: absolute;
+	cursor: pointer;
+	background-color: blue;
+}
+#c{
+	background-color: #FFFFF0;
+	height: 300px;
+	width: 200px;
+	font-size: 0px;
+	margin-left: 352px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	top: 16px;
+	position: absolute;
+	cursor: pointer;
+}
+#d{
+	background-color: #FFFFF0;
+	height: 300px;
+	width: 350px;
+	font-size: 0px;
+	margin-left: 554px;
+	margin-right: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+	border: 1px solid black;
+	position: absolute;
+	cursor: pointer;
+	top: 16px;
+	background-color: red;
+}
+#red{
+	background-color: #FFFFF0;
+	height: 210px;
+	width: 250px;
+	font-size: 0px;
+	margin-left: 50px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 2px solid black;
+	top: 45px;
+	position: absolute;
+	cursor: pointer;
+	background-color: white;
+}
+#box5{
+	background-color: #FFFFF0;
+	height: 55px;
+	width: 55px;
+	font-size: 0px;
+	margin-left: 40px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	border-radius: 50px;
+	top: 30px;
+	position: absolute;
+	cursor: pointer;
+	background-color: red;
+}
+#box6{
+	background-color: #FFFFF0;
+	height: 55px;
+	width: 55px;
+	font-size: 0px;
+	margin-left: 150px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	border-radius: 50px;
+	top: 30px;
+	position: absolute;
+	cursor: pointer;
+	background-color: red;
+}
+#box7{
+	background-color: #FFFFF0;
+	height: 55px;
+	width: 55px;
+	font-size: 0px;
+	margin-left: 40px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	top: 128px;
+	position: absolute;
+	cursor: pointer;
+	background-color: red;
+	border-radius: 50px;
+}
+#box8{
+	background-color: #FFFFF0;
+	height: 55px;
+	width: 55px;
+	font-size: 0px;
+	margin-left: 150px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	border-radius: 50px;
+	top: 128px;
+	position: absolute;
+	cursor: pointer;
+	background-color: red;
+}
+#e{
+	background-color: #FFFFF0;
+	height: 170px;
+	width: 350px;
+	font-size: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+	border: 1px solid black;
+	position: absolute;
+	cursor: pointer;
+	top: 318px;
+}
+#f{
+	background-color: #FFFFF0;
+	height: 170px;
+	width: 200px;
+	font-size: 0px;
+	margin-left: 352px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	top: 318px;
+	position: absolute;
+	cursor: pointer;
+}
+#g{
+	background-color: #FFFFF0;
+	height: 170px;
+	width: 350px;
+	font-size: 0px;
+	margin-left: 554px;
+	margin-right: 0px;
+	margin-top: 0px;
+	padding-top: 0px;
+	border: 1px solid black;
+	position: absolute;
+	cursor: pointer;
+	top: 318px;
+}
+#h{
+	background-color: #FFFFF0;
+	height: 300px;
+	width: 350px;
+	font-size: 0px;
+	margin-left: 0px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	top: 490px;
+	position: absolute;
+	cursor: pointer;
+	background-color: yellow;
+}
+#yellow{
+	background-color: #FFFFF0;
+	height: 210px;
+	width: 250px;
+	font-size: 0px;
+	margin-left: 50px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 2px solid black;
+	top: 45px;
+	position: absolute;
+	cursor: pointer;
+	background-color: white;
+}
+#box9{
+	background-color: #FFFFF0;
+	height: 55px;
+	width: 55px;
+	font-size: 0px;
+	margin-left: 40px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	border-radius: 50px;
+	top: 30px;
+	position: absolute;
+	cursor: pointer;
+	background-color: yellow;
+}
+#box10{
+	background-color: #FFFFF0;
+	height: 55px;
+	width: 55px;
+	font-size: 0px;
+	margin-left: 150px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	border-radius: 50px;
+	top: 30px;
+	position: absolute;
+	cursor: pointer;
+	background-color: yellow;
+}
+#box11{
+	background-color: #FFFFF0;
+	height: 55px;
+	width: 55px;
+	font-size: 0px;
+	margin-left: 40px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	top: 128px;
+	position: absolute;
+	cursor: pointer;
+	background-color: yellow;
+	border-radius: 50px;
+}
+#box12{
+	background-color: #FFFFF0;
+	height: 55px;
+	width: 55px;
+	font-size: 0px;
+	margin-left: 150px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	border-radius: 50px;
+	top: 128px;
+	position: absolute;
+	cursor: pointer;
+	background-color: yellow;
+}
+#i{
+	background-color: #FFFFF0;
+	height: 300px;
+	width: 350px;
+	font-size: 0px;
+	margin-left: 352px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	top: 490px;
+	position: absolute;
+	cursor: pointer;
+}
+#j{
+	background-color: #FFFFF0;
+	height: 300px;
+	width: 350px;
+	font-size: 0px;
+	margin-left: 554px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	top: 490px;
+	margin-left: 1px solid black;
+	position: absolute;
+	cursor: pointer;
+	background-color: green;
+}
+#green{
+	background-color: #FFFFF0;
+	height: 210px;
+	width: 250px;
+	font-size: 0px;
+	margin-left: 50px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 2px solid black;
+	top: 45px;
+	position: absolute;
+	cursor: pointer;
+	background-color: white;
+	
+}
+#box13{
+	background-color: #FFFFF0;
+	height: 55px;
+	width: 55px;
+	font-size: 0px;
+	margin-left: 40px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	border-radius: 50px;
+	top: 30px;
+	position: absolute;
+	cursor: pointer;
+	background-color: green;
+}
+#box14{
+	background-color: #FFFFF0;
+	height: 55px;
+	width: 55px;
+	font-size: 0px;
+	margin-left: 150px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	border-radius: 50px;
+	top: 30px;
+	position: absolute;
+	cursor: pointer;
+	background-color: green;
+}
+#box15{
+	background-color: #FFFFF0;
+	height: 55px;
+	width: 55px;
+	font-size: 0px;
+	margin-left: 40px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	top: 128px;
+	position: absolute;
+	cursor: pointer;
+	background-color: green;
+	border-radius: 50px;
+}
+#box16{
+	background-color: #FFFFF0;
+	height: 55px;
+	width: 55px;
+	font-size: 0px;
+	margin-left: 150px;
+	margin-top: fixed;
+	padding-top: 0px;
+	border: 1px solid black;
+	border-radius: 50px;
+	top: 128px;
+	position: absolute;
+	cursor: pointer;
+	background-color: green;
+}
+#mithi{
+	background-color: red;
+	left: 0px;
+	width: 0px;
+	height: 299px;
+	top: 50px;
+	padding: 34px;
+	border-top: 50px solid white;
+}
+#hoi{
+	background-color: yellow;
+	left: 0px;
+	width: 0px;
+	height: 182px;
+	top: 0px;
+	padding: 34px;
+}
